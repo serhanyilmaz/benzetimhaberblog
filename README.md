@@ -1,4 +1,4 @@
-Benzetim Teknolojileri Güncel Haber Bloðu Projesi
+Benzetim Teknolojileri Güncel Haber Blog Projesi
 
 PROJE ELEMANLARI
 
